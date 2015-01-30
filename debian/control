@@ -1,0 +1,12 @@
+Source: libfft
+Section: libraries
+Priority: extra
+XBSC-Group: Math
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libfft
+Architecture: all
+Description: FFT library
+
