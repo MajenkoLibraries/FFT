@@ -1,0 +1,17 @@
+{
+    "name": "FFT",
+    "provides": "FFT.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "Simple integer FFT library",
+    "category": "Math",
+    "subcategory": "Signal Processing",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.0.0",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "FFT.cpp": "/",
+        "FFT.h": "/"
+    }
+}
